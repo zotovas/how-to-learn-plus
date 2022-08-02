@@ -1,0 +1,11 @@
+.two-columns {
+min-height: 238px;
+background-color: #fff;
+width: 80%;
+display: flex;
+margin: auto;
+flex-direction: row;
+justify-content: space-between;
+align-items:flex-start;
+}
+  
