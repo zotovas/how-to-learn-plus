@@ -1,11 +1,9 @@
 .footer__author {
+  bottom: 0;
   margin-top: 18px;
   margin-bottom: 18px;
-  margin-left: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: 400;
-  position: absolute;
-  left:0;
-  bottom: 0;
+  color: #fff;
 }

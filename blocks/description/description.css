@@ -1,5 +1,7 @@
 .description {
+  box-sizing:border-box;
   display: flex;
   padding-top: 100px;
   padding-bottom: 0;
+  justify-content: center;
 }

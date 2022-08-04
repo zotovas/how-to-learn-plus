@@ -1,9 +1,8 @@
 .digits {
+  box-sizing:border-box;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;  
+  align-items: center;
   padding-top: 100px;
   padding-bottom: 100px;
 }
-  
