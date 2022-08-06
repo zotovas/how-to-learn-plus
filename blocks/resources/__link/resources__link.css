@@ -1,3 +1,7 @@
 .resources__link {
   margin:0;
 }
+
+.resources__link:hover {
+  opacity: 0.5;
+}
