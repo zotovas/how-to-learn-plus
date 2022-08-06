@@ -3,12 +3,11 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: 400;
-  opacity: 0.4;
-  transition: opacity .3s ease-in-out;
   color:#2f80ed;
   text-decoration: none;
+  margin-left: 48px;
 }
 
 .khan__buy-link:hover {
-  opacity: 1;
+  opacity: 0.5;
 }
