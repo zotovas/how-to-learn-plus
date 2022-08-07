@@ -5,7 +5,5 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: relative;
   background-color: #F2F2F2;
-  overflow: hidden;
 }
